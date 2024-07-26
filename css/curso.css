@@ -58,6 +58,7 @@ footer{
 table{
     width: 100%;
     height: 70%;
+    text-align: center;
 }
 
 table, tr, td, th{
