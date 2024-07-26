@@ -19,6 +19,7 @@ main{
 .Pergunta{
     text-decoration: none;
     color: black;
+    font-size: 120%;
 }
 
 .tela, #r1, #r2, #r3, #r4{
